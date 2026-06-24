@@ -22,10 +22,7 @@ OUT_WARNINGS = "warnings.json"
 SHP_EPSG  = 5347   # POSGAR 2007 faja 5
 
 # URL pública del Sheet como CSV (el Sheet debe estar publicado)
-SHEET_CSV_URL = (
-    f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/gviz/tq"
-    f"?tqx=out:csv&sheet={SHEET_NAME.replace(' ', '%20')}"
-)
+SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZbEDpkN-w7BkLUvmQguHCnH_wDlSlY5mYpluJ1Mez76YY7YU6hB63PTi_-BafvXidbGa68O6G07i/pub?gid=571653749&single=true&output=csv"
 
 # ── Paleta de colores por actividad ───────────────────────────────────────────
 COLOR_ACTIVIDAD = {
