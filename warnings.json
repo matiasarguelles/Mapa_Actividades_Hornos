@@ -1,11 +1,38 @@
 [
   {
+    "fila": 2,
+    "timestamp": "5/11/2026 10:58:50",
+    "calle": "Calle 54",
+    "desde": "Calle 54",
+    "hasta": "Calle 58",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 54' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
     "fila": 3,
     "timestamp": "5/11/2026 11:59:55",
     "calle": "Calle 52 Bis",
     "desde": "Avenida 52",
     "hasta": "Calle 57 Bis",
     "actividad": "Pasto",
-    "motivo": "Calles no adyacentes: 'Calle 52 Bis' y 'Avenida 52' a 2090m"
+    "motivo": "Desde 'Avenida 52' y Hasta 'Calle 57 Bis' son el mismo punto"
+  },
+  {
+    "fila": 4,
+    "timestamp": "5/26/2026 15:08:52",
+    "calle": "Calle 54",
+    "desde": "Calle 58",
+    "hasta": "Calle 50",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 58' y Hasta 'Calle 50' son el mismo punto"
+  },
+  {
+    "fila": 5,
+    "timestamp": "5/29/2026 12:19:04",
+    "calle": "Avenida 31",
+    "desde": "Calle 56",
+    "hasta": "Calle 58",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 58' son el mismo punto"
   }
 ]
