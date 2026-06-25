@@ -14,10 +14,10 @@ from shapely.geometry import mapping
 
 # ── Configuración ─────────────────────────────────────────────────────────────
 SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZbEDpkN--w7BkLUvmQguHCnH_wDlSIY5mYpluJ1Mez76YY7YU6hB63PTi_-BafvXidbGa6806G07i/pub?gid=571653749&single=true&output=csv"
-SHP_PATH      = "scripts/Calles_Hornos.shp"
+SHP_PATH      = "scripts/Calles_Hornos_wgs84.geojson"
 OUT_GEOJSON   = "actividades_live.geojson"
 OUT_WARNINGS  = "warnings.json"
-SHP_EPSG      = 5348
+SHP_EPSG      = 4326
 
 COLOR_ACTIVIDAD = {
     "Barrido":     "#4d94ff",
