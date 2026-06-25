@@ -17,7 +17,7 @@ SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSZbEDpkN--w7Bk
 SHP_PATH      = "scripts/Calles_Hornos.shp"
 OUT_GEOJSON   = "actividades_live.geojson"
 OUT_WARNINGS  = "warnings.json"
-SHP_EPSG      = 5347
+SHP_EPSG      = 5348
 
 COLOR_ACTIVIDAD = {
     "Barrido":     "#4d94ff",
