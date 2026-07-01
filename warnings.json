@@ -34,5 +34,14 @@
     "hasta": "Calle 58",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
+    "fila": 6,
+    "timestamp": "7/1/2026 12:47:32",
+    "calle": "Avenida 52",
+    "desde": "Calle 55 Bis",
+    "hasta": "Calle 54",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 55 Bis' y Hasta 'Calle 54' son el mismo punto"
   }
 ]
