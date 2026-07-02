@@ -592,5 +592,59 @@
     "hasta": "Calle 140",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 68,
+    "timestamp": "7/2/2026 11:38:46",
+    "calle": "Calle 78",
+    "desde": "Calle 140",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 69,
+    "timestamp": "7/2/2026 11:39:37",
+    "calle": "Calle 164",
+    "desde": "Calle 61",
+    "hasta": "Calle 64",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 61' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 70,
+    "timestamp": "7/2/2026 11:40:14",
+    "calle": "Calle 63",
+    "desde": "Calle 162",
+    "hasta": "Calle 164",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 162' y Hasta 'Calle 164' son el mismo punto"
+  },
+  {
+    "fila": 71,
+    "timestamp": "7/2/2026 11:41:46",
+    "calle": "Calle 80",
+    "desde": "Avenida 137",
+    "hasta": "Calle 141",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 137' y Hasta 'Calle 141' son el mismo punto"
+  },
+  {
+    "fila": 72,
+    "timestamp": "7/2/2026 11:42:40",
+    "calle": "Calle 81 Bis",
+    "desde": "Avenida 137",
+    "hasta": "Calle 141",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 137' y Hasta 'Calle 141' son el mismo punto"
+  },
+  {
+    "fila": 73,
+    "timestamp": "7/2/2026 18:34:37",
+    "calle": "Avenida 149",
+    "desde": "Calle 74",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 74' y Hasta 'Calle 76' son el mismo punto"
   }
 ]
