@@ -520,5 +520,23 @@
     "hasta": "Avenida 66",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 60,
+    "timestamp": "7/2/2026 11:29:16",
+    "calle": "Avenida 143",
+    "desde": "Avenida 66",
+    "hasta": "Calle 66 Bis",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Calle 66 Bis' son el mismo punto"
+  },
+  {
+    "fila": 61,
+    "timestamp": "7/2/2026 11:30:14",
+    "calle": "Calle 154",
+    "desde": "Calle 59",
+    "hasta": "Calle 60",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 59' y Hasta 'Calle 60' son el mismo punto"
   }
 ]
