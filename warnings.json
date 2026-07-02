@@ -124,5 +124,14 @@
     "hasta": "Calle 147",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 146' y Hasta 'Calle 147' son el mismo punto"
+  },
+  {
+    "fila": 16,
+    "timestamp": "7/2/2026 9:15:32",
+    "calle": "Calle 145",
+    "desde": "Avenida 60",
+    "hasta": "Calle 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Calle 66' son el mismo punto"
   }
 ]
