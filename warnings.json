@@ -250,32 +250,5 @@
     "hasta": "Calle 140",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 131' y Hasta 'Calle 140' son el mismo punto"
-  },
-  {
-    "fila": 30,
-    "timestamp": "7/2/2026 10:30:34",
-    "calle": "Calle 142",
-    "desde": "Calle 70",
-    "hasta": "Calle 71",
-    "actividad": "Barrido",
-    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
-  },
-  {
-    "fila": 31,
-    "timestamp": "7/2/2026 10:31:23",
-    "calle": "Calle 142",
-    "desde": "Calle 70",
-    "hasta": "Calle 71",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
-  },
-  {
-    "fila": 32,
-    "timestamp": "7/2/2026 10:32:24",
-    "calle": "Calle 70",
-    "desde": "Calle 142",
-    "hasta": "Avenida 143",
-    "actividad": "Barrido",
-    "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
