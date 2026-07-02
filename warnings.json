@@ -430,5 +430,41 @@
     "hasta": "Calle 187",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 185' y Hasta 'Calle 187' son el mismo punto"
+  },
+  {
+    "fila": 50,
+    "timestamp": "7/2/2026 11:12:55",
+    "calle": "Avenida 66",
+    "desde": "Calle 156",
+    "hasta": "Calle 157",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 156' y Hasta 'Calle 157' son el mismo punto"
+  },
+  {
+    "fila": 51,
+    "timestamp": "7/2/2026 11:14:16",
+    "calle": "Avenida 60",
+    "desde": "Calle 154",
+    "hasta": "Calle 154",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 154' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 52,
+    "timestamp": "7/2/2026 11:15:03",
+    "calle": "Avenida 60",
+    "desde": "Calle 154",
+    "hasta": "Calle 154",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 154' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 53,
+    "timestamp": "7/2/2026 11:19:57",
+    "calle": "Calle 65",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
   }
 ]
