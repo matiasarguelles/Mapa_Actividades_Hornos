@@ -556,5 +556,14 @@
     "hasta": "Calle 60",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 59' y Hasta 'Calle 60' son el mismo punto"
+  },
+  {
+    "fila": 64,
+    "timestamp": "7/2/2026 11:31:56",
+    "calle": "Calle 144",
+    "desde": "Calle 57",
+    "hasta": "Calle 58",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 57' y Hasta 'Calle 58' son el mismo punto"
   }
 ]
