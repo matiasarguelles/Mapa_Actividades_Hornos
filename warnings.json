@@ -511,5 +511,14 @@
     "hasta": "Calle 154",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 153' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 59,
+    "timestamp": "7/2/2026 11:26:59",
+    "calle": "Avenida 143",
+    "desde": "Calle 65",
+    "hasta": "Avenida 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
