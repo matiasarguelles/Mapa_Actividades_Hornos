@@ -709,5 +709,32 @@
     "hasta": "Avenida 60",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 81,
+    "timestamp": "7/3/2026 9:16:46",
+    "calle": "Calle 65",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
+  },
+  {
+    "fila": 82,
+    "timestamp": "7/3/2026 9:18:13",
+    "calle": "Avenida 137",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
+  },
+  {
+    "fila": 83,
+    "timestamp": "7/3/2026 9:19:42",
+    "calle": "Calle 65",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
   }
 ]
