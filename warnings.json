@@ -970,5 +970,14 @@
     "hasta": "Calle 140",
     "actividad": "Pasto",
     "motivo": "Desde 'Calle 131' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 110,
+    "timestamp": "7/3/2026 10:15:52",
+    "calle": "Calle 56",
+    "desde": "Calle 131",
+    "hasta": "Calle 140",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 131' y Hasta 'Calle 140' son el mismo punto"
   }
 ]
