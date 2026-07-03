@@ -871,5 +871,23 @@
     "hasta": "Avenida 143",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 99,
+    "timestamp": "7/3/2026 9:46:21",
+    "calle": "Calle 70",
+    "desde": "Calle 142",
+    "hasta": "Avenida 143",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 100,
+    "timestamp": "7/3/2026 10:00:45",
+    "calle": "Calle 185",
+    "desde": "Calle 78",
+    "hasta": "Calle 79",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 79' son el mismo punto"
   }
 ]
