@@ -997,5 +997,14 @@
     "hasta": "Calle 65",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 64' y Hasta 'Calle 65' son el mismo punto"
+  },
+  {
+    "fila": 113,
+    "timestamp": "7/3/2026 10:31:01",
+    "calle": "Calle 138",
+    "desde": "Calle 64",
+    "hasta": "Calle 65",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 64' y Hasta 'Calle 65' son el mismo punto"
   }
 ]
