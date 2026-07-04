@@ -1879,5 +1879,59 @@
     "hasta": "Calle 66",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 211,
+    "timestamp": "7/4/2026 20:44:37",
+    "calle": "Calle 66",
+    "desde": "Calle 153",
+    "hasta": "Calle 154",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 153' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 212,
+    "timestamp": "7/4/2026 20:45:15",
+    "calle": "Calle 143",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 213,
+    "timestamp": "7/4/2026 20:45:51",
+    "calle": "Calle 144",
+    "desde": "Calle 57",
+    "hasta": "Calle 58",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 57' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
+    "fila": 214,
+    "timestamp": "7/4/2026 20:46:52",
+    "calle": "Calle 66",
+    "desde": "Calle 156",
+    "hasta": "Calle 157",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 156' y Hasta 'Calle 157' son el mismo punto"
+  },
+  {
+    "fila": 215,
+    "timestamp": "7/4/2026 20:47:47",
+    "calle": "Calle 142",
+    "desde": "Calle 70",
+    "hasta": "Calle 71",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
+  },
+  {
+    "fila": 216,
+    "timestamp": "7/4/2026 20:49:00",
+    "calle": "Calle 70",
+    "desde": "Calle 142",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
