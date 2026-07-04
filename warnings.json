@@ -1789,5 +1789,32 @@
     "hasta": "Calle 66",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 60' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 201,
+    "timestamp": "7/4/2026 20:35:44",
+    "calle": "Calle 150",
+    "desde": "Calle 60",
+    "hasta": "Calle 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 60' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 202,
+    "timestamp": "7/4/2026 20:36:32",
+    "calle": "Calle 151",
+    "desde": "Avenida 60",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 203,
+    "timestamp": "7/4/2026 20:37:22",
+    "calle": "Calle 152",
+    "desde": "Avenida 60",
+    "hasta": "Calle 66 Bis",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Calle 66 Bis' son el mismo punto"
   }
 ]
