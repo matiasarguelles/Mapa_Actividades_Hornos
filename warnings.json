@@ -1276,5 +1276,14 @@
     "hasta": "Avenida 66",
     "actividad": "Limpieza",
     "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 144,
+    "timestamp": "7/4/2026 11:12:01",
+    "calle": "Calle 161",
+    "desde": "Avenida 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 52' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
