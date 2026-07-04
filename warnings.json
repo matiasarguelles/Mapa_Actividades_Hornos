@@ -1402,32 +1402,5 @@
     "hasta": "Calle 58",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 57' y Hasta 'Calle 58' son el mismo punto"
-  },
-  {
-    "fila": 158,
-    "timestamp": "7/4/2026 12:08:56",
-    "calle": "Avenida 66",
-    "desde": "Calle 156",
-    "hasta": "Calle 157",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 156' y Hasta 'Calle 157' son el mismo punto"
-  },
-  {
-    "fila": 159,
-    "timestamp": "7/4/2026 12:10:01",
-    "calle": "Calle 70",
-    "desde": "Calle 142",
-    "hasta": "Avenida 143",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
-  },
-  {
-    "fila": 160,
-    "timestamp": "7/4/2026 12:10:56",
-    "calle": "Calle 142",
-    "desde": "Calle 70",
-    "hasta": "Calle 71",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
   }
 ]
