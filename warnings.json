@@ -1564,5 +1564,14 @@
     "hasta": "Calle 167",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 155' y Hasta 'Calle 167' son el mismo punto"
+  },
+  {
+    "fila": 176,
+    "timestamp": "7/4/2026 14:27:45",
+    "calle": "Calle 149",
+    "desde": "Avenida 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 72' y Hasta 'Calle 76' son el mismo punto"
   }
 ]
