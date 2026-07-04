@@ -1573,5 +1573,23 @@
     "hasta": "Calle 76",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 177,
+    "timestamp": "7/4/2026 14:28:33",
+    "calle": "Calle 150",
+    "desde": "Calle 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 178,
+    "timestamp": "7/4/2026 14:29:26",
+    "calle": "Calle 151",
+    "desde": "Avenida 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 72' y Hasta 'Calle 76' son el mismo punto"
   }
 ]
