@@ -1690,5 +1690,14 @@
     "hasta": "Calle 72",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 66' y Hasta 'Calle 72' son el mismo punto"
+  },
+  {
+    "fila": 190,
+    "timestamp": "7/4/2026 20:19:13",
+    "calle": "Calle 157",
+    "desde": "Avenida 66",
+    "hasta": "Avenida 72",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Avenida 72' son el mismo punto"
   }
 ]
