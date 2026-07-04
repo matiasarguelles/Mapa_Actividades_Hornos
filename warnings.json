@@ -1285,5 +1285,32 @@
     "hasta": "Avenida 66",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 52' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 145,
+    "timestamp": "7/4/2026 11:14:35",
+    "calle": "Avenida 137",
+    "desde": "Calle 76",
+    "hasta": "Calle 78",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 76' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 146,
+    "timestamp": "7/4/2026 11:15:52",
+    "calle": "Calle 76",
+    "desde": "Avenida 137",
+    "hasta": "Calle 139",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 137' y Hasta 'Calle 139' son el mismo punto"
+  },
+  {
+    "fila": 147,
+    "timestamp": "7/4/2026 11:17:02",
+    "calle": "Avenida 143",
+    "desde": "Avenida 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 72' y Hasta 'Calle 76' son el mismo punto"
   }
 ]
