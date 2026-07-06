@@ -2401,5 +2401,14 @@
     "hasta": "Calle 64",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 61' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 269,
+    "timestamp": "7/6/2026 18:25:17",
+    "calle": "Calle 164",
+    "desde": "Calle 61",
+    "hasta": "Calle 61",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 61' y Hasta 'Calle 61' son el mismo punto"
   }
 ]
