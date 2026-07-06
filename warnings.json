@@ -2059,5 +2059,23 @@
     "hasta": "Calle 66",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 231,
+    "timestamp": "7/6/2026 10:35:40",
+    "calle": "Calle 60",
+    "desde": "Calle 143",
+    "hasta": "Calle 146",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 143' y Hasta 'Calle 146' son el mismo punto"
+  },
+  {
+    "fila": 232,
+    "timestamp": "7/6/2026 10:37:26",
+    "calle": "Calle 146",
+    "desde": "Calle 58",
+    "hasta": "Calle 59",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
   }
 ]
