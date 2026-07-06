@@ -2257,14 +2257,5 @@
     "hasta": "Calle 70",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
-  },
-  {
-    "fila": 253,
-    "timestamp": "7/6/2026 14:52:13",
-    "calle": "Avenida 137",
-    "desde": "Calle 59",
-    "hasta": "Calle 60",
-    "actividad": "Barrido",
-    "motivo": "Desde 'Calle 59' y Hasta 'Calle 60' son el mismo punto"
   }
 ]
