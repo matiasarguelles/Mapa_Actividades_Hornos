@@ -2374,5 +2374,32 @@
     "hasta": "Calle 154",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 154' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 266,
+    "timestamp": "7/6/2026 18:17:56",
+    "calle": "Calle 66",
+    "desde": "Calle 151",
+    "hasta": "Calle 154",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 267,
+    "timestamp": "7/6/2026 18:19:08",
+    "calle": "Calle 63",
+    "desde": "Calle 162",
+    "hasta": "Calle 165",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 162' y Hasta 'Calle 165' son el mismo punto"
+  },
+  {
+    "fila": 268,
+    "timestamp": "7/6/2026 18:24:22",
+    "calle": "Calle 164",
+    "desde": "Calle 61",
+    "hasta": "Calle 64",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 61' y Hasta 'Calle 64' son el mismo punto"
   }
 ]
