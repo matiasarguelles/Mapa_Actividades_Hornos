@@ -1987,5 +1987,14 @@
     "hasta": "Calle 78",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 223,
+    "timestamp": "7/6/2026 10:26:30",
+    "calle": "Calle 185",
+    "desde": "Calle 78",
+    "hasta": "Calle 78",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
   }
 ]
