@@ -1996,5 +1996,14 @@
     "hasta": "Calle 78",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 224,
+    "timestamp": "7/6/2026 10:27:46",
+    "calle": "Calle 66",
+    "desde": "Calle 156",
+    "hasta": "Calle 157",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 156' y Hasta 'Calle 157' son el mismo punto"
   }
 ]
