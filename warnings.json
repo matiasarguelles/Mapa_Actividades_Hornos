@@ -1960,5 +1960,14 @@
     "hasta": "Avenida 60",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 220,
+    "timestamp": "7/6/2026 10:21:28",
+    "calle": "Calle 64",
+    "desde": "Calle 163",
+    "hasta": "Calle 163",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 163' y Hasta 'Calle 163' son el mismo punto"
   }
 ]
