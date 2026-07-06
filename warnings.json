@@ -2005,5 +2005,14 @@
     "hasta": "Calle 157",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 156' y Hasta 'Calle 157' son el mismo punto"
+  },
+  {
+    "fila": 225,
+    "timestamp": "7/6/2026 10:28:56",
+    "calle": "Calle 142",
+    "desde": "Calle 70",
+    "hasta": "Calle 71",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
   }
 ]
