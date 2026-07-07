@@ -2617,5 +2617,14 @@
     "hasta": "Calle 167",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 155' y Hasta 'Calle 167' son el mismo punto"
+  },
+  {
+    "fila": 293,
+    "timestamp": "7/7/2026 9:45:50",
+    "calle": "Avenida 137",
+    "desde": "Avenida 60",
+    "hasta": "Calle 66",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Calle 66' son el mismo punto"
   }
 ]
