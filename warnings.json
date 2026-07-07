@@ -2905,5 +2905,14 @@
     "hasta": "Calle 57",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 57' y Hasta 'Calle 57' son el mismo punto"
+  },
+  {
+    "fila": 325,
+    "timestamp": "7/7/2026 11:05:11",
+    "calle": "Calle 76",
+    "desde": "Avenida 143",
+    "hasta": "Calle 144",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 144' son el mismo punto"
   }
 ]
