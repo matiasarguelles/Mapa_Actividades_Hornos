@@ -2914,23 +2914,5 @@
     "hasta": "Calle 144",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Avenida 143' y Hasta 'Calle 144' son el mismo punto"
-  },
-  {
-    "fila": 326,
-    "timestamp": "7/7/2026 11:06:18",
-    "calle": "Calle 76",
-    "desde": "Avenida 143",
-    "hasta": "Calle 144",
-    "actividad": "Alumbrado",
-    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 144' son el mismo punto"
-  },
-  {
-    "fila": 327,
-    "timestamp": "7/7/2026 11:07:11",
-    "calle": "Calle 76",
-    "desde": "Calle 144",
-    "hasta": "Calle 145",
-    "actividad": "Alumbrado",
-    "motivo": "Desde 'Calle 144' y Hasta 'Calle 145' son el mismo punto"
   }
 ]
