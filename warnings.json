@@ -2959,5 +2959,41 @@
     "hasta": "Calle 62",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 61' y Hasta 'Calle 62' son el mismo punto"
+  },
+  {
+    "fila": 331,
+    "timestamp": "7/7/2026 11:13:45",
+    "calle": "Calle 65",
+    "desde": "Calle 164",
+    "hasta": "Calle 164",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 164' y Hasta 'Calle 164' son el mismo punto"
+  },
+  {
+    "fila": 332,
+    "timestamp": "7/7/2026 11:15:02",
+    "calle": "Calle 140",
+    "desde": "Avenida 52",
+    "hasta": "Avenida 52",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Avenida 52' y Hasta 'Avenida 52' son el mismo punto"
+  },
+  {
+    "fila": 333,
+    "timestamp": "7/7/2026 11:16:20",
+    "calle": "Calle 154",
+    "desde": "Avenida 72",
+    "hasta": "Calle 73",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Avenida 72' y Hasta 'Calle 73' son el mismo punto"
+  },
+  {
+    "fila": 334,
+    "timestamp": "7/7/2026 20:35:37",
+    "calle": "Calle 161",
+    "desde": "Calle 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
