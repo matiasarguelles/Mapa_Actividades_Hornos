@@ -2959,14 +2959,5 @@
     "hasta": "Calle 62",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 61' y Hasta 'Calle 62' son el mismo punto"
-  },
-  {
-    "fila": 331,
-    "timestamp": "7/7/2026 11:13:45",
-    "calle": "Calle 65",
-    "desde": "Calle 164",
-    "hasta": "Calle 164",
-    "actividad": "Alumbrado",
-    "motivo": "Desde 'Calle 164' y Hasta 'Calle 164' son el mismo punto"
   }
 ]
