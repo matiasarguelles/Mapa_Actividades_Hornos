@@ -2626,5 +2626,32 @@
     "hasta": "Calle 66",
     "actividad": "Limpieza",
     "motivo": "Desde 'Avenida 60' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 294,
+    "timestamp": "7/7/2026 9:49:08",
+    "calle": "Calle 62",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 295,
+    "timestamp": "7/7/2026 9:50:24",
+    "calle": "Calle 62",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 296,
+    "timestamp": "7/7/2026 9:52:12",
+    "calle": "Calle 142",
+    "desde": "Calle 70",
+    "hasta": "Calle 71",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
   }
 ]
