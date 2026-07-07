@@ -2410,5 +2410,14 @@
     "hasta": "Calle 61",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 61' y Hasta 'Calle 61' son el mismo punto"
+  },
+  {
+    "fila": 270,
+    "timestamp": "7/7/2026 8:59:09",
+    "calle": "Avenida 137",
+    "desde": "Calle 56",
+    "hasta": "Calle 70",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
   }
 ]
