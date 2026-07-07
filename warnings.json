@@ -2779,5 +2779,23 @@
     "hasta": "Calle 150",
     "actividad": "Limpieza",
     "motivo": "Desde 'Avenida 143' y Hasta 'Calle 150' son el mismo punto"
+  },
+  {
+    "fila": 311,
+    "timestamp": "7/7/2026 10:13:13",
+    "calle": "Avenida 60",
+    "desde": "Avenida 143",
+    "hasta": "Calle 146",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 146' son el mismo punto"
+  },
+  {
+    "fila": 312,
+    "timestamp": "7/7/2026 10:15:36",
+    "calle": "Calle 142",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
   }
 ]
