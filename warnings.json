@@ -3139,23 +3139,5 @@
     "hasta": "Calle 74",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 72' y Hasta 'Calle 74' son el mismo punto"
-  },
-  {
-    "fila": 351,
-    "timestamp": "7/7/2026 20:48:55",
-    "calle": "Calle 158",
-    "desde": "Calle 72",
-    "hasta": "Calle 74",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 72' y Hasta 'Calle 74' son el mismo punto"
-  },
-  {
-    "fila": 352,
-    "timestamp": "7/7/2026 20:50:32",
-    "calle": "Calle 78",
-    "desde": "Calle 140",
-    "hasta": "Calle 140",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
   }
 ]
