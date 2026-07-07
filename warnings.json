@@ -2464,5 +2464,14 @@
     "hasta": "Avenida 60",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 276,
+    "timestamp": "7/7/2026 9:12:44",
+    "calle": "Avenida 60",
+    "desde": "Calle 143",
+    "hasta": "Calle 146",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 143' y Hasta 'Calle 146' son el mismo punto"
   }
 ]
