@@ -2995,5 +2995,14 @@
     "hasta": "Avenida 66",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 335,
+    "timestamp": "7/7/2026 20:36:33",
+    "calle": "Calle 162",
+    "desde": "Calle 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
