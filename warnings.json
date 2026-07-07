@@ -3130,5 +3130,14 @@
     "hasta": "Calle 74",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 72' y Hasta 'Calle 74' son el mismo punto"
+  },
+  {
+    "fila": 350,
+    "timestamp": "7/7/2026 20:48:02",
+    "calle": "Calle 157",
+    "desde": "Calle 72",
+    "hasta": "Calle 74",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 74' son el mismo punto"
   }
 ]
