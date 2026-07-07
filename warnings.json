@@ -3076,5 +3076,59 @@
     "hasta": "Calle 76",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 344,
+    "timestamp": "7/7/2026 20:43:18",
+    "calle": "Calle 152",
+    "desde": "Calle 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 345,
+    "timestamp": "7/7/2026 20:43:57",
+    "calle": "Calle 153",
+    "desde": "Calle 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 346,
+    "timestamp": "7/7/2026 20:44:50",
+    "calle": "Calle 153",
+    "desde": "Calle 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 347,
+    "timestamp": "7/7/2026 20:45:39",
+    "calle": "Calle 155",
+    "desde": "Calle 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 348,
+    "timestamp": "7/7/2026 20:46:40",
+    "calle": "Calle 155",
+    "desde": "Calle 72",
+    "hasta": "Calle 74",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 74' son el mismo punto"
+  },
+  {
+    "fila": 349,
+    "timestamp": "7/7/2026 20:47:22",
+    "calle": "Calle 156",
+    "desde": "Calle 72",
+    "hasta": "Calle 74",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 74' son el mismo punto"
   }
 ]
