@@ -3004,5 +3004,41 @@
     "hasta": "Avenida 66",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 336,
+    "timestamp": "7/7/2026 20:37:10",
+    "calle": "Calle 163",
+    "desde": "Avenida 52",
+    "hasta": "Calle 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 52' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 337,
+    "timestamp": "7/7/2026 20:37:52",
+    "calle": "Calle 164",
+    "desde": "Calle 52",
+    "hasta": "Calle 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 52' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 338,
+    "timestamp": "7/7/2026 20:38:31",
+    "calle": "Calle 165",
+    "desde": "Calle 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 339,
+    "timestamp": "7/7/2026 20:39:06",
+    "calle": "Calle 166",
+    "desde": "Calle 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
