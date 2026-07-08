@@ -3760,5 +3760,14 @@
     "hasta": "Calle 74",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 74' y Hasta 'Calle 74' son el mismo punto"
+  },
+  {
+    "fila": 420,
+    "timestamp": "7/8/2026 19:29:13",
+    "calle": "Calle 149",
+    "desde": "Calle 74",
+    "hasta": "Calle 74",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 74' y Hasta 'Calle 74' son el mismo punto"
   }
 ]
