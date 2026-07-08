@@ -3616,5 +3616,23 @@
     "hasta": "Calle 140",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 404,
+    "timestamp": "7/8/2026 10:53:33",
+    "calle": "Calle 57",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 405,
+    "timestamp": "7/8/2026 11:54:49",
+    "calle": "Calle 136",
+    "desde": "Calle 56",
+    "hasta": "Calle 68",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 68' son el mismo punto"
   }
 ]
