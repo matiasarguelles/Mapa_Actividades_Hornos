@@ -3220,5 +3220,14 @@
     "hasta": "Avenida 66",
     "actividad": "Limpieza",
     "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 360,
+    "timestamp": "7/8/2026 9:25:52",
+    "calle": "Avenida 137",
+    "desde": "Calle 56",
+    "hasta": "Calle 70",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
   }
 ]
