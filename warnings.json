@@ -3697,5 +3697,14 @@
     "hasta": "Avenida 149",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 143' y Hasta 'Avenida 149' son el mismo punto"
+  },
+  {
+    "fila": 413,
+    "timestamp": "7/8/2026 19:20:18",
+    "calle": "Calle 76",
+    "desde": "Calle 144",
+    "hasta": "Avenida 149",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 144' y Hasta 'Avenida 149' son el mismo punto"
   }
 ]
