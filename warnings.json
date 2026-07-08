@@ -3751,5 +3751,14 @@
     "hasta": "Calle 80",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 80' y Hasta 'Calle 80' son el mismo punto"
+  },
+  {
+    "fila": 419,
+    "timestamp": "7/8/2026 19:28:04",
+    "calle": "Avenida 149",
+    "desde": "Calle 74",
+    "hasta": "Calle 74",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 74' y Hasta 'Calle 74' son el mismo punto"
   }
 ]
