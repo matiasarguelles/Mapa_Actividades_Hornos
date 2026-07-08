@@ -3769,5 +3769,14 @@
     "hasta": "Calle 74",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 74' y Hasta 'Calle 74' son el mismo punto"
+  },
+  {
+    "fila": 421,
+    "timestamp": "7/8/2026 19:32:46",
+    "calle": "Calle 152",
+    "desde": "Calle 64",
+    "hasta": "Calle 65",
+    "actividad": "Sanejo",
+    "motivo": "Desde 'Calle 64' y Hasta 'Calle 65' son el mismo punto"
   }
 ]
