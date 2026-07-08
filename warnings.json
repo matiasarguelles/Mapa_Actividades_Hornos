@@ -3508,5 +3508,32 @@
     "hasta": "Calle 59",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 392,
+    "timestamp": "7/8/2026 10:25:40",
+    "calle": "Calle 146",
+    "desde": "Calle 58",
+    "hasta": "Calle 59",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 393,
+    "timestamp": "7/8/2026 10:33:25",
+    "calle": "Calle 154",
+    "desde": "Calle 59",
+    "hasta": "Avenida 60",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 394,
+    "timestamp": "7/8/2026 10:33:59",
+    "calle": "Calle 154",
+    "desde": "Calle 59",
+    "hasta": "Avenida 60",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
   }
 ]
