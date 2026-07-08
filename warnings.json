@@ -3319,5 +3319,14 @@
     "hasta": "Calle 71",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
+  },
+  {
+    "fila": 371,
+    "timestamp": "7/8/2026 9:49:48",
+    "calle": "Calle 142",
+    "desde": "Calle 70",
+    "hasta": "Calle 71",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
   }
 ]
