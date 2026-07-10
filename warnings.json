@@ -3895,5 +3895,23 @@
     "hasta": "Calle 155",
     "actividad": "Pasto",
     "motivo": "Desde 'Calle 153' y Hasta 'Calle 155' son el mismo punto"
+  },
+  {
+    "fila": 435,
+    "timestamp": "7/10/2026 9:20:36",
+    "calle": "Calle 90",
+    "desde": "Calle 153",
+    "hasta": "Calle 155",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 153' y Hasta 'Calle 155' son el mismo punto"
+  },
+  {
+    "fila": 436,
+    "timestamp": "7/10/2026 9:24:43",
+    "calle": "Calle 62",
+    "desde": "Calle 148",
+    "hasta": "Avenida 149",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
   }
 ]
