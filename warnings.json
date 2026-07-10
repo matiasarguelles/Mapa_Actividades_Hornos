@@ -3787,5 +3787,59 @@
     "hasta": "Calle 64",
     "actividad": "Sanejo",
     "motivo": "Desde 'Calle 64' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 423,
+    "timestamp": "7/8/2026 19:36:50",
+    "calle": "Calle 66",
+    "desde": "Calle 141",
+    "hasta": "Avenida 143",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 141' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 424,
+    "timestamp": "7/8/2026 19:37:26",
+    "calle": "Calle 143",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 425,
+    "timestamp": "7/8/2026 19:38:02",
+    "calle": "Calle 65",
+    "desde": "Calle 142",
+    "hasta": "Calle 143",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 142' y Hasta 'Calle 143' son el mismo punto"
+  },
+  {
+    "fila": 426,
+    "timestamp": "7/8/2026 19:38:44",
+    "calle": "Calle 142",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 427,
+    "timestamp": "7/8/2026 19:39:18",
+    "calle": "Avenida 143",
+    "desde": "Avenida 66",
+    "hasta": "Avenida 66",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 428,
+    "timestamp": "7/10/2026 8:55:56",
+    "calle": "Avenida 143",
+    "desde": "Avenida 60",
+    "hasta": "Avenida 66",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
