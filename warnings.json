@@ -4093,5 +4093,14 @@
     "hasta": "Calle 139",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 137' y Hasta 'Calle 139' son el mismo punto"
+  },
+  {
+    "fila": 457,
+    "timestamp": "7/10/2026 13:02:07",
+    "calle": "Calle 76",
+    "desde": "Avenida 137",
+    "hasta": "Calle 139",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Avenida 137' y Hasta 'Calle 139' son el mismo punto"
   }
 ]
