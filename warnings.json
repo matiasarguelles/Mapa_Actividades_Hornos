@@ -3877,5 +3877,14 @@
     "hasta": "Avenida 143",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 433,
+    "timestamp": "7/10/2026 9:10:17",
+    "calle": "Avenida 66",
+    "desde": "Calle 131",
+    "hasta": "Calle 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Calle 143' son el mismo punto"
   }
 ]
