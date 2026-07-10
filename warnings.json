@@ -3931,5 +3931,14 @@
     "hasta": "Calle 64",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 62' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 439,
+    "timestamp": "7/10/2026 9:27:20",
+    "calle": "Avenida 149",
+    "desde": "Calle 62",
+    "hasta": "Calle 64",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 64' son el mismo punto"
   }
 ]
