@@ -3913,5 +3913,50 @@
     "hasta": "Avenida 149",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
+  },
+  {
+    "fila": 437,
+    "timestamp": "7/10/2026 9:25:29",
+    "calle": "Calle 62",
+    "desde": "Calle 148",
+    "hasta": "Avenida 149",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
+  },
+  {
+    "fila": 438,
+    "timestamp": "7/10/2026 9:26:31",
+    "calle": "Avenida 149",
+    "desde": "Calle 62",
+    "hasta": "Calle 64",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 439,
+    "timestamp": "7/10/2026 9:27:20",
+    "calle": "Avenida 149",
+    "desde": "Calle 62",
+    "hasta": "Calle 64",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 440,
+    "timestamp": "7/10/2026 9:28:35",
+    "calle": "Calle 153",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 441,
+    "timestamp": "7/10/2026 9:29:44",
+    "calle": "Calle 153",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
   }
 ]
