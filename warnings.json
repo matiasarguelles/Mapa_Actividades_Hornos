@@ -4624,5 +4624,41 @@
     "hasta": "Calle 64",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 64' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 516,
+    "timestamp": "7/13/2026 17:33:32",
+    "calle": "Calle 164",
+    "desde": "Calle 61",
+    "hasta": "Calle 64",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 61' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 517,
+    "timestamp": "7/13/2026 17:34:42",
+    "calle": "Calle 63",
+    "desde": "Calle 162",
+    "hasta": "Calle 165",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 162' y Hasta 'Calle 165' son el mismo punto"
+  },
+  {
+    "fila": 518,
+    "timestamp": "7/13/2026 17:35:50",
+    "calle": "Calle 164",
+    "desde": "Calle 61",
+    "hasta": "Calle 64",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 61' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 519,
+    "timestamp": "7/13/2026 17:37:05",
+    "calle": "Calle 63",
+    "desde": "Calle 162",
+    "hasta": "Calle 165",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 162' y Hasta 'Calle 165' son el mismo punto"
   }
 ]
