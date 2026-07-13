@@ -4120,5 +4120,14 @@
     "hasta": "Calle 76",
     "actividad": "Basurales",
     "motivo": "Desde 'Avenida 72' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 460,
+    "timestamp": "7/13/2026 8:36:35",
+    "calle": "Calle 64",
+    "desde": "Calle 131",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
