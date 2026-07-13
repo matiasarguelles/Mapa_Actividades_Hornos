@@ -4372,14 +4372,5 @@
     "hasta": "Calle 151",
     "actividad": "Pasto",
     "motivo": "Desde 'Avenida 149' y Hasta 'Calle 151' son el mismo punto"
-  },
-  {
-    "fila": 488,
-    "timestamp": "7/13/2026 9:27:08",
-    "calle": "Calle 62",
-    "desde": "Avenida 149",
-    "hasta": "Calle 151",
-    "actividad": "Limpieza",
-    "motivo": "Desde 'Avenida 149' y Hasta 'Calle 151' son el mismo punto"
   }
 ]
