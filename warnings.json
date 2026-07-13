@@ -4453,5 +4453,14 @@
     "hasta": "Calle 167",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 155' y Hasta 'Calle 167' son el mismo punto"
+  },
+  {
+    "fila": 497,
+    "timestamp": "7/13/2026 9:43:45",
+    "calle": "Calle 142",
+    "desde": "Calle 70",
+    "hasta": "Calle 71",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
   }
 ]
