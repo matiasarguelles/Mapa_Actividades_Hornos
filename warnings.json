@@ -4336,5 +4336,41 @@
     "hasta": "Calle 78",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 484,
+    "timestamp": "7/13/2026 9:21:18",
+    "calle": "Calle 140",
+    "desde": "Calle 78",
+    "hasta": "Calle 78",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 485,
+    "timestamp": "7/13/2026 9:22:32",
+    "calle": "Calle 151",
+    "desde": "Calle 62",
+    "hasta": "Calle 64",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 486,
+    "timestamp": "7/13/2026 9:24:12",
+    "calle": "Calle 71",
+    "desde": "Calle 154",
+    "hasta": "Calle 155",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 154' y Hasta 'Calle 155' son el mismo punto"
+  },
+  {
+    "fila": 487,
+    "timestamp": "7/13/2026 9:26:04",
+    "calle": "Calle 62",
+    "desde": "Avenida 149",
+    "hasta": "Calle 151",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Avenida 149' y Hasta 'Calle 151' son el mismo punto"
   }
 ]
