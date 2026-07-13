@@ -4471,5 +4471,32 @@
     "hasta": "Calle 71",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
+  },
+  {
+    "fila": 499,
+    "timestamp": "7/13/2026 9:45:51",
+    "calle": "Calle 142",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
+  },
+  {
+    "fila": 500,
+    "timestamp": "7/13/2026 9:46:41",
+    "calle": "Calle 142",
+    "desde": "Calle 65",
+    "hasta": "Calle 60",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 60' son el mismo punto"
+  },
+  {
+    "fila": 501,
+    "timestamp": "7/13/2026 9:50:51",
+    "calle": "Avenida 66",
+    "desde": "Calle 131",
+    "hasta": "Calle 167",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 131' y Hasta 'Calle 167' son el mismo punto"
   }
 ]
