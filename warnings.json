@@ -4201,5 +4201,32 @@
     "hasta": "Avenida 60",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 469,
+    "timestamp": "7/13/2026 8:57:04",
+    "calle": "Calle 154",
+    "desde": "Calle 59",
+    "hasta": "Avenida 60",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 470,
+    "timestamp": "7/13/2026 8:58:22",
+    "calle": "Calle 154",
+    "desde": "Calle 59",
+    "hasta": "Avenida 60",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 471,
+    "timestamp": "7/13/2026 9:00:10",
+    "calle": "Calle 153",
+    "desde": "Calle 65",
+    "hasta": "Avenida 66",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
