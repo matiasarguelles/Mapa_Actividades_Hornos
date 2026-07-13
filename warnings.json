@@ -4147,5 +4147,32 @@
     "hasta": "Calle 70",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
+  },
+  {
+    "fila": 463,
+    "timestamp": "7/13/2026 8:41:33",
+    "calle": "Avenida 137",
+    "desde": "Calle 56",
+    "hasta": "Calle 70",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
+  },
+  {
+    "fila": 464,
+    "timestamp": "7/13/2026 8:42:41",
+    "calle": "Avenida 137",
+    "desde": "Avenida 60",
+    "hasta": "Avenida 66",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 465,
+    "timestamp": "7/13/2026 8:45:17",
+    "calle": "Avenida 60",
+    "desde": "Calle 131",
+    "hasta": "Avenida 143",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
