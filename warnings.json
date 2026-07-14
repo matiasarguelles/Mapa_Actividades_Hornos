@@ -4804,5 +4804,23 @@
     "hasta": "Avenida 143",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 536,
+    "timestamp": "7/14/2026 9:47:44",
+    "calle": "Avenida 52",
+    "desde": "Calle 131",
+    "hasta": "Calle 140",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 131' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 537,
+    "timestamp": "7/14/2026 10:00:33",
+    "calle": "Avenida 149",
+    "desde": "Calle 63",
+    "hasta": "Calle 64",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 63' y Hasta 'Calle 64' son el mismo punto"
   }
 ]
