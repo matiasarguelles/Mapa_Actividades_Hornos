@@ -5092,5 +5092,14 @@
     "hasta": "Avenida 60",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 568,
+    "timestamp": "7/14/2026 11:47:08",
+    "calle": "Calle 62",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
   }
 ]
