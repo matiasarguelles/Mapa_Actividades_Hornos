@@ -4660,5 +4660,14 @@
     "hasta": "Calle 165",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 162' y Hasta 'Calle 165' son el mismo punto"
+  },
+  {
+    "fila": 520,
+    "timestamp": "7/14/2026 8:54:40",
+    "calle": "Avenida 60",
+    "desde": "Calle 146",
+    "hasta": "Calle 147",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 146' y Hasta 'Calle 147' son el mismo punto"
   }
 ]
