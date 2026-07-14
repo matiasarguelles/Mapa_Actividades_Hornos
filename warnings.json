@@ -4786,5 +4786,14 @@
     "hasta": "Calle 76",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 75' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 534,
+    "timestamp": "7/14/2026 9:39:01",
+    "calle": "Avenida 137",
+    "desde": "Calle 59",
+    "hasta": "Avenida 60",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
   }
 ]
