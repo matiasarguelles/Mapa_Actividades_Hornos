@@ -5155,5 +5155,14 @@
     "hasta": "Calle 154",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 151' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 575,
+    "timestamp": "7/15/2026 9:26:56",
+    "calle": "Calle 76",
+    "desde": "Calle 141",
+    "hasta": "Calle 141",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 141' y Hasta 'Calle 141' son el mismo punto"
   }
 ]
