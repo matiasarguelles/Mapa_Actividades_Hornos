@@ -5380,14 +5380,5 @@
     "hasta": "Avenida 143",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
-  },
-  {
-    "fila": 600,
-    "timestamp": "7/15/2026 10:21:10",
-    "calle": "Calle 143",
-    "desde": "Calle 65",
-    "hasta": "Avenida 66",
-    "actividad": "Barrido",
-    "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
