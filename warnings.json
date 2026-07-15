@@ -5308,5 +5308,59 @@
     "hasta": "Calle 153",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
+  },
+  {
+    "fila": 592,
+    "timestamp": "7/15/2026 10:14:38",
+    "calle": "Calle 65",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
+  },
+  {
+    "fila": 593,
+    "timestamp": "7/15/2026 10:15:43",
+    "calle": "Avenida 66",
+    "desde": "Calle 153",
+    "hasta": "Calle 154",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 153' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 594,
+    "timestamp": "7/15/2026 10:17:03",
+    "calle": "Calle 66",
+    "desde": "Calle 153",
+    "hasta": "Calle 154",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 153' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 595,
+    "timestamp": "7/15/2026 10:17:33",
+    "calle": "Calle 147",
+    "desde": "Calle 60",
+    "hasta": "Calle 60",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 60' y Hasta 'Calle 60' son el mismo punto"
+  },
+  {
+    "fila": 596,
+    "timestamp": "7/15/2026 10:18:23",
+    "calle": "Calle 144",
+    "desde": "Calle 57",
+    "hasta": "Calle 58",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 57' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
+    "fila": 597,
+    "timestamp": "7/15/2026 10:18:56",
+    "calle": "Calle 144",
+    "desde": "Calle 57",
+    "hasta": "Calle 58",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 57' y Hasta 'Calle 58' son el mismo punto"
   }
 ]
