@@ -5272,5 +5272,14 @@
     "hasta": "Calle 146",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 143' y Hasta 'Calle 146' son el mismo punto"
+  },
+  {
+    "fila": 588,
+    "timestamp": "7/15/2026 10:07:19",
+    "calle": "Calle 59 Bis",
+    "desde": "Avenida 143",
+    "hasta": "Calle 146",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 146' son el mismo punto"
   }
 ]
