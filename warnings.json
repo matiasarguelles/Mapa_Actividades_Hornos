@@ -5911,5 +5911,14 @@
     "hasta": "Calle 68",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 68' y Hasta 'Calle 68' son el mismo punto"
+  },
+  {
+    "fila": 659,
+    "timestamp": "7/17/2026 20:37:24",
+    "calle": "Calle 161",
+    "desde": "Calle 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 52' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
