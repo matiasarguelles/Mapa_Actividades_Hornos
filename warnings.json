@@ -5956,5 +5956,14 @@
     "hasta": "Calle 70",
     "actividad": "Pasto",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
+  },
+  {
+    "fila": 664,
+    "timestamp": "7/17/2026 20:50:11",
+    "calle": "Calle 78",
+    "desde": "Calle 140",
+    "hasta": "Calle 140",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
   }
 ]
