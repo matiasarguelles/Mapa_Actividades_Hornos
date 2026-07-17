@@ -5803,5 +5803,59 @@
     "hasta": "Calle 165",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 162' y Hasta 'Calle 165' son el mismo punto"
+  },
+  {
+    "fila": 647,
+    "timestamp": "7/17/2026 20:04:46",
+    "calle": "Calle 83",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 648,
+    "timestamp": "7/17/2026 20:05:30",
+    "calle": "Calle 78",
+    "desde": "Calle 140",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 649,
+    "timestamp": "7/17/2026 20:06:11",
+    "calle": "Calle 166",
+    "desde": "Calle 65",
+    "hasta": "Calle 65",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 65' son el mismo punto"
+  },
+  {
+    "fila": 650,
+    "timestamp": "7/17/2026 20:06:49",
+    "calle": "Calle 165",
+    "desde": "Calle 65",
+    "hasta": "Calle 65",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 65' son el mismo punto"
+  },
+  {
+    "fila": 651,
+    "timestamp": "7/17/2026 20:08:00",
+    "calle": "Avenida 66",
+    "desde": "Calle 143",
+    "hasta": "Calle 167",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 143' y Hasta 'Calle 167' son el mismo punto"
+  },
+  {
+    "fila": 652,
+    "timestamp": "7/17/2026 20:08:38",
+    "calle": "Calle 66",
+    "desde": "Calle 131",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
