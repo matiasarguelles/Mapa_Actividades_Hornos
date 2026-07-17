@@ -5866,5 +5866,14 @@
     "hasta": "Calle 70",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
+  },
+  {
+    "fila": 654,
+    "timestamp": "7/17/2026 20:09:53",
+    "calle": "Calle 60",
+    "desde": "Calle 131",
+    "hasta": "Avenida 149",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 149' son el mismo punto"
   }
 ]
