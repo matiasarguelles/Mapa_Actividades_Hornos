@@ -5623,5 +5623,14 @@
     "hasta": "Avenida 66",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
+  },
+  {
+    "fila": 627,
+    "timestamp": "7/17/2026 19:43:49",
+    "calle": "Calle 142",
+    "desde": "Calle 65",
+    "hasta": "Avenida 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
