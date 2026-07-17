@@ -5803,5 +5803,32 @@
     "hasta": "Calle 165",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 162' y Hasta 'Calle 165' son el mismo punto"
+  },
+  {
+    "fila": 647,
+    "timestamp": "7/17/2026 20:04:46",
+    "calle": "Calle 83",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 648,
+    "timestamp": "7/17/2026 20:05:30",
+    "calle": "Calle 78",
+    "desde": "Calle 140",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 649,
+    "timestamp": "7/17/2026 20:06:11",
+    "calle": "Calle 166",
+    "desde": "Calle 65",
+    "hasta": "Calle 65",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 65' son el mismo punto"
   }
 ]
