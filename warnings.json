@@ -5983,5 +5983,14 @@
     "hasta": "Calle 160",
     "actividad": "Pasto",
     "motivo": "Desde 'Calle 159' y Hasta 'Calle 160' son el mismo punto"
+  },
+  {
+    "fila": 667,
+    "timestamp": "7/18/2026 9:59:42",
+    "calle": "Calle 68 Bis",
+    "desde": "Calle 159",
+    "hasta": "Calle 160",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 159' y Hasta 'Calle 160' son el mismo punto"
   }
 ]
