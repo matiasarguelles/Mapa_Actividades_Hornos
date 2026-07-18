@@ -5992,5 +5992,14 @@
     "hasta": "Calle 160",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 159' y Hasta 'Calle 160' son el mismo punto"
+  },
+  {
+    "fila": 668,
+    "timestamp": "7/18/2026 10:00:56",
+    "calle": "Calle 69",
+    "desde": "Calle 159",
+    "hasta": "Calle 160",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 159' y Hasta 'Calle 160' son el mismo punto"
   }
 ]
