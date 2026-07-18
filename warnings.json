@@ -6172,5 +6172,14 @@
     "hasta": "Avenida 149",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
+  },
+  {
+    "fila": 688,
+    "timestamp": "7/18/2026 10:40:11",
+    "calle": "Calle 142",
+    "desde": "Calle 70",
+    "hasta": "Calle 71",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 70' y Hasta 'Calle 71' son el mismo punto"
   }
 ]
