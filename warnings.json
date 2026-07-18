@@ -5965,5 +5965,23 @@
     "hasta": "Calle 140",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 665,
+    "timestamp": "7/17/2026 20:54:01",
+    "calle": "Calle 151",
+    "desde": "Calle 68",
+    "hasta": "Calle 68",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 68' y Hasta 'Calle 68' son el mismo punto"
+  },
+  {
+    "fila": 666,
+    "timestamp": "7/18/2026 9:54:08",
+    "calle": "Calle 68",
+    "desde": "Calle 159",
+    "hasta": "Calle 160",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 159' y Hasta 'Calle 160' son el mismo punto"
   }
 ]
