@@ -6316,14 +6316,5 @@
     "hasta": "Calle 146",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 143' y Hasta 'Calle 146' son el mismo punto"
-  },
-  {
-    "fila": 704,
-    "timestamp": "7/20/2026 11:02:21",
-    "calle": "Avenida 60",
-    "desde": "Avenida 143",
-    "hasta": "Calle 146",
-    "actividad": "Barrido",
-    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 146' son el mismo punto"
   }
 ]
