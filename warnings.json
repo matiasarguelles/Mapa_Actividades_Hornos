@@ -6262,5 +6262,14 @@
     "hasta": "Calle 59",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 698,
+    "timestamp": "7/20/2026 10:54:51",
+    "calle": "Avenida 66",
+    "desde": "Calle 151",
+    "hasta": "Calle 154",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 154' son el mismo punto"
   }
 ]
