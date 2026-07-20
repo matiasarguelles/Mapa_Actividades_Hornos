@@ -6280,5 +6280,32 @@
     "hasta": "Calle 154",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 151' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 700,
+    "timestamp": "7/20/2026 10:57:26",
+    "calle": "Calle 185",
+    "desde": "Calle 78",
+    "hasta": "Calle 78 Bis",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78 Bis' son el mismo punto"
+  },
+  {
+    "fila": 701,
+    "timestamp": "7/20/2026 10:58:15",
+    "calle": "Calle 185",
+    "desde": "Calle 78",
+    "hasta": "Calle 78 Bis",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78 Bis' son el mismo punto"
+  },
+  {
+    "fila": 702,
+    "timestamp": "7/20/2026 10:59:24",
+    "calle": "Avenida 66",
+    "desde": "Calle 156",
+    "hasta": "Calle 157",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 156' y Hasta 'Calle 157' son el mismo punto"
   }
 ]
