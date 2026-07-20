@@ -6487,5 +6487,14 @@
     "hasta": "Calle 70",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
+  },
+  {
+    "fila": 723,
+    "timestamp": "7/20/2026 12:07:49",
+    "calle": "Avenida 137",
+    "desde": "Calle 56",
+    "hasta": "Calle 70",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
   }
 ]
