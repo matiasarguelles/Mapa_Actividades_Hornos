@@ -7018,5 +7018,23 @@
     "hasta": "Calle 81 Bis",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 80' y Hasta 'Calle 81 Bis' son el mismo punto"
+  },
+  {
+    "fila": 782,
+    "timestamp": "7/21/2026 18:29:46",
+    "calle": "Avenida 149",
+    "desde": "Avenida 66",
+    "hasta": "Avenida 72",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Avenida 72' son el mismo punto"
+  },
+  {
+    "fila": 783,
+    "timestamp": "7/21/2026 18:31:21",
+    "calle": "Calle 155",
+    "desde": "Avenida 72",
+    "hasta": "Calle 74",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 72' y Hasta 'Calle 74' son el mismo punto"
   }
 ]
