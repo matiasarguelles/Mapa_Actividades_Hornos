@@ -6586,5 +6586,14 @@
     "hasta": "Avenida 143",
     "actividad": "Pasto",
     "motivo": "Desde 'Calle 141' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 734,
+    "timestamp": "7/21/2026 9:51:51",
+    "calle": "Calle 59",
+    "desde": "Calle 141 Bis",
+    "hasta": "Avenida 143",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 141 Bis' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
