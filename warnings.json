@@ -6991,5 +6991,14 @@
     "hasta": "Calle 78 Bis",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78 Bis' son el mismo punto"
+  },
+  {
+    "fila": 779,
+    "timestamp": "7/21/2026 11:37:53",
+    "calle": "Avenida 137",
+    "desde": "Calle 64",
+    "hasta": "Calle 64",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 64' y Hasta 'Calle 64' son el mismo punto"
   }
 ]
