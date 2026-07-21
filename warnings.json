@@ -6982,5 +6982,14 @@
     "hasta": "Calle 78 Bis",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78 Bis' son el mismo punto"
+  },
+  {
+    "fila": 778,
+    "timestamp": "7/21/2026 11:33:44",
+    "calle": "Calle 185",
+    "desde": "Calle 78",
+    "hasta": "Calle 78 Bis",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78 Bis' son el mismo punto"
   }
 ]
