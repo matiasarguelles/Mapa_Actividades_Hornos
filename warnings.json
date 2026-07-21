@@ -6640,5 +6640,14 @@
     "hasta": "Calle 156",
     "actividad": "Limpieza",
     "motivo": "Desde 'Avenida 143' y Hasta 'Calle 156' son el mismo punto"
+  },
+  {
+    "fila": 740,
+    "timestamp": "7/21/2026 10:08:14",
+    "calle": "Calle 59",
+    "desde": "Calle 131",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
