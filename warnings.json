@@ -6973,5 +6973,14 @@
     "hasta": "Avenida 60",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 777,
+    "timestamp": "7/21/2026 11:33:08",
+    "calle": "Calle 185",
+    "desde": "Calle 78",
+    "hasta": "Calle 78 Bis",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78 Bis' son el mismo punto"
   }
 ]
