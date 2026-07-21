@@ -6694,5 +6694,14 @@
     "hasta": "Calle 141 Bis",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 139' y Hasta 'Calle 141 Bis' son el mismo punto"
+  },
+  {
+    "fila": 746,
+    "timestamp": "7/21/2026 10:23:19",
+    "calle": "Avenida 60",
+    "desde": "Calle 147",
+    "hasta": "Calle 148",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 147' y Hasta 'Calle 148' son el mismo punto"
   }
 ]
