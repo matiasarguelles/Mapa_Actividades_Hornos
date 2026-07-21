@@ -6568,5 +6568,68 @@
     "hasta": "Calle 69",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 68' y Hasta 'Calle 69' son el mismo punto"
+  },
+  {
+    "fila": 732,
+    "timestamp": "7/21/2026 9:50:13",
+    "calle": "Calle 142",
+    "desde": "Calle 58",
+    "hasta": "Avenida 60",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 58' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 733,
+    "timestamp": "7/21/2026 9:51:01",
+    "calle": "Calle 58",
+    "desde": "Calle 141",
+    "hasta": "Avenida 143",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 141' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 734,
+    "timestamp": "7/21/2026 9:51:51",
+    "calle": "Calle 59",
+    "desde": "Calle 141 Bis",
+    "hasta": "Avenida 143",
+    "actividad": "Pasto",
+    "motivo": "Desde 'Calle 141 Bis' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 735,
+    "timestamp": "7/21/2026 9:52:49",
+    "calle": "Calle 142",
+    "desde": "Calle 58",
+    "hasta": "Avenida 60",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 58' y Hasta 'Avenida 60' son el mismo punto"
+  },
+  {
+    "fila": 736,
+    "timestamp": "7/21/2026 9:53:35",
+    "calle": "Calle 58",
+    "desde": "Calle 141",
+    "hasta": "Avenida 143",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 141' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 737,
+    "timestamp": "7/21/2026 9:54:11",
+    "calle": "Calle 59",
+    "desde": "Calle 141 Bis",
+    "hasta": "Avenida 143",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 141 Bis' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 738,
+    "timestamp": "7/21/2026 9:59:19",
+    "calle": "Avenida 66",
+    "desde": "Avenida 143",
+    "hasta": "Calle 156",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 156' son el mismo punto"
   }
 ]
