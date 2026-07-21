@@ -7036,5 +7036,14 @@
     "hasta": "Calle 74",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 72' y Hasta 'Calle 74' son el mismo punto"
+  },
+  {
+    "fila": 784,
+    "timestamp": "7/21/2026 18:31:56",
+    "calle": "Avenida 143",
+    "desde": "Calle 72",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 72' y Hasta 'Calle 76' son el mismo punto"
   }
 ]
