@@ -7009,5 +7009,14 @@
     "hasta": "Avenida 143",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 781,
+    "timestamp": "7/21/2026 18:27:58",
+    "calle": "Avenida 137",
+    "desde": "Calle 80",
+    "hasta": "Calle 81 Bis",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 80' y Hasta 'Calle 81 Bis' son el mismo punto"
   }
 ]
