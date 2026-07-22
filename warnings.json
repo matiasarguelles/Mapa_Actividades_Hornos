@@ -7297,5 +7297,23 @@
     "hasta": "Calle 61",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 61' y Hasta 'Calle 61' son el mismo punto"
+  },
+  {
+    "fila": 813,
+    "timestamp": "7/22/2026 10:27:23",
+    "calle": "Calle 161",
+    "desde": "Calle 59",
+    "hasta": "Calle 59",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 59' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 814,
+    "timestamp": "7/22/2026 10:28:57",
+    "calle": "Calle 142",
+    "desde": "Calle 65",
+    "hasta": "Avenida 66",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 65' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
