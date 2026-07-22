@@ -7180,5 +7180,14 @@
     "hasta": "Calle 68",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 68' son el mismo punto"
+  },
+  {
+    "fila": 800,
+    "timestamp": "7/22/2026 10:05:00",
+    "calle": "Calle 65",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
   }
 ]
