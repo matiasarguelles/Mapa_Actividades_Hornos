@@ -7513,5 +7513,14 @@
     "hasta": "Calle 148",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 147' y Hasta 'Calle 148' son el mismo punto"
+  },
+  {
+    "fila": 837,
+    "timestamp": "7/22/2026 12:04:51",
+    "calle": "Avenida 137",
+    "desde": "Avenida 137",
+    "hasta": "Calle 60",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Avenida 137' y Hasta 'Calle 60' son el mismo punto"
   }
 ]
