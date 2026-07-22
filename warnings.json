@@ -7063,5 +7063,14 @@
     "hasta": "Calle 155",
     "actividad": "Pasto",
     "motivo": "Desde 'Calle 131' y Hasta 'Calle 155' son el mismo punto"
+  },
+  {
+    "fila": 787,
+    "timestamp": "7/22/2026 9:10:37",
+    "calle": "Avenida 137",
+    "desde": "Calle 59",
+    "hasta": "Avenida 60",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 59' y Hasta 'Avenida 60' son el mismo punto"
   }
 ]
