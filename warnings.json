@@ -7234,5 +7234,14 @@
     "hasta": "Avenida 149",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
+  },
+  {
+    "fila": 806,
+    "timestamp": "7/22/2026 10:13:26",
+    "calle": "Calle 59 Bis",
+    "desde": "Avenida 143",
+    "hasta": "Calle 146",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Avenida 143' y Hasta 'Calle 146' son el mismo punto"
   }
 ]
