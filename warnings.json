@@ -7486,5 +7486,32 @@
     "hasta": "Calle 140",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 834,
+    "timestamp": "7/22/2026 11:59:34",
+    "calle": "Calle 62",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 835,
+    "timestamp": "7/22/2026 12:00:22",
+    "calle": "Avenida 137",
+    "desde": "Calle 64",
+    "hasta": "Calle 64",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 64' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 836,
+    "timestamp": "7/22/2026 12:03:29",
+    "calle": "Avenida 60",
+    "desde": "Calle 147",
+    "hasta": "Calle 148",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 147' y Hasta 'Calle 148' son el mismo punto"
   }
 ]
