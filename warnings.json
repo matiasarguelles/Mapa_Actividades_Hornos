@@ -7153,5 +7153,14 @@
     "hasta": "Avenida 143",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 797,
+    "timestamp": "7/22/2026 9:35:51",
+    "calle": "Calle 161",
+    "desde": "Avenida 66",
+    "hasta": "Calle 67",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Calle 67' son el mismo punto"
   }
 ]
