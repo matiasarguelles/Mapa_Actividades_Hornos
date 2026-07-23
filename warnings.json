@@ -7684,5 +7684,14 @@
     "hasta": "Calle 146",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 145' y Hasta 'Calle 146' son el mismo punto"
+  },
+  {
+    "fila": 856,
+    "timestamp": "7/23/2026 9:53:21",
+    "calle": "Calle 58",
+    "desde": "Calle 145",
+    "hasta": "Calle 146",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 145' y Hasta 'Calle 146' son el mismo punto"
   }
 ]
