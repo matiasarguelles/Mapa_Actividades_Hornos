@@ -8062,5 +8062,14 @@
     "hasta": "Calle 140",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 898,
+    "timestamp": "7/23/2026 11:08:24",
+    "calle": "Avenida 137",
+    "desde": "Avenida 60",
+    "hasta": "Avenida 66",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Avenida 60' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
