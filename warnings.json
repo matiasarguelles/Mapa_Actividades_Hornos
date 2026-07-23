@@ -7756,5 +7756,68 @@
     "hasta": "Calle 62",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 62' y Hasta 'Calle 62' son el mismo punto"
+  },
+  {
+    "fila": 864,
+    "timestamp": "7/23/2026 10:07:27",
+    "calle": "Calle 161",
+    "desde": "Calle 62",
+    "hasta": "Calle 62",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 62' son el mismo punto"
+  },
+  {
+    "fila": 865,
+    "timestamp": "7/23/2026 10:08:29",
+    "calle": "Calle 161",
+    "desde": "Calle 59",
+    "hasta": "Calle 59",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 59' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 866,
+    "timestamp": "7/23/2026 10:09:08",
+    "calle": "Calle 161",
+    "desde": "Calle 59",
+    "hasta": "Calle 59",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 59' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 867,
+    "timestamp": "7/23/2026 10:10:31",
+    "calle": "Calle 158",
+    "desde": "Calle 63",
+    "hasta": "Calle 63",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 63' y Hasta 'Calle 63' son el mismo punto"
+  },
+  {
+    "fila": 868,
+    "timestamp": "7/23/2026 10:11:27",
+    "calle": "Calle 158",
+    "desde": "Calle 63",
+    "hasta": "Calle 63",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 63' y Hasta 'Calle 63' son el mismo punto"
+  },
+  {
+    "fila": 869,
+    "timestamp": "7/23/2026 10:17:44",
+    "calle": "Avenida 66",
+    "desde": "Calle 153",
+    "hasta": "Calle 154",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 153' y Hasta 'Calle 154' son el mismo punto"
+  },
+  {
+    "fila": 870,
+    "timestamp": "7/23/2026 10:17:03",
+    "calle": "Avenida 66",
+    "desde": "Calle 153",
+    "hasta": "Calle 154",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 153' y Hasta 'Calle 154' son el mismo punto"
   }
 ]
