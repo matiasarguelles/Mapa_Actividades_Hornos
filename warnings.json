@@ -7729,5 +7729,14 @@
     "hasta": "Avenida 149",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
+  },
+  {
+    "fila": 861,
+    "timestamp": "7/23/2026 10:02:22",
+    "calle": "Calle 146",
+    "desde": "Calle 65",
+    "hasta": "Calle 66",
+    "actividad": "Sanejo",
+    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
   }
 ]
