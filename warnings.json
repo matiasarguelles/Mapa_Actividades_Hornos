@@ -7756,5 +7756,14 @@
     "hasta": "Calle 62",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 62' y Hasta 'Calle 62' son el mismo punto"
+  },
+  {
+    "fila": 864,
+    "timestamp": "7/23/2026 10:07:27",
+    "calle": "Calle 161",
+    "desde": "Calle 62",
+    "hasta": "Calle 62",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 62' son el mismo punto"
   }
 ]
