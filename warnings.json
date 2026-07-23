@@ -8035,5 +8035,32 @@
     "hasta": "Calle 148",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 147' y Hasta 'Calle 148' son el mismo punto"
+  },
+  {
+    "fila": 895,
+    "timestamp": "7/23/2026 11:05:59",
+    "calle": "Avenida 60",
+    "desde": "Calle 147",
+    "hasta": "Calle 148",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 147' y Hasta 'Calle 148' son el mismo punto"
+  },
+  {
+    "fila": 896,
+    "timestamp": "7/23/2026 11:06:49",
+    "calle": "Calle 62",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 897,
+    "timestamp": "7/23/2026 11:07:36",
+    "calle": "Calle 62",
+    "desde": "Calle 139",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 139' y Hasta 'Calle 140' son el mismo punto"
   }
 ]
