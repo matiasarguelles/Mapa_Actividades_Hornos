@@ -7747,5 +7747,41 @@
     "hasta": "Calle 67",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 66' y Hasta 'Calle 67' son el mismo punto"
+  },
+  {
+    "fila": 863,
+    "timestamp": "7/23/2026 10:06:30",
+    "calle": "Calle 161",
+    "desde": "Calle 62",
+    "hasta": "Calle 62",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 62' son el mismo punto"
+  },
+  {
+    "fila": 864,
+    "timestamp": "7/23/2026 10:07:27",
+    "calle": "Calle 161",
+    "desde": "Calle 62",
+    "hasta": "Calle 62",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 62' y Hasta 'Calle 62' son el mismo punto"
+  },
+  {
+    "fila": 865,
+    "timestamp": "7/23/2026 10:08:29",
+    "calle": "Calle 161",
+    "desde": "Calle 59",
+    "hasta": "Calle 59",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 59' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 866,
+    "timestamp": "7/23/2026 10:09:08",
+    "calle": "Calle 161",
+    "desde": "Calle 59",
+    "hasta": "Calle 59",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 59' y Hasta 'Calle 59' son el mismo punto"
   }
 ]
