@@ -7954,23 +7954,5 @@
     "hasta": "Calle 153",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
-  },
-  {
-    "fila": 886,
-    "timestamp": "7/23/2026 10:53:33",
-    "calle": "Calle 142",
-    "desde": "Calle 65",
-    "hasta": "Calle 66",
-    "actividad": "Barrido",
-    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
-  },
-  {
-    "fila": 887,
-    "timestamp": "7/23/2026 10:54:21",
-    "calle": "Calle 142",
-    "desde": "Calle 65",
-    "hasta": "Calle 66",
-    "actividad": "Recolección",
-    "motivo": "Desde 'Calle 65' y Hasta 'Calle 66' son el mismo punto"
   }
 ]
