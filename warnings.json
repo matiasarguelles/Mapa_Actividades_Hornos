@@ -7855,5 +7855,14 @@
     "hasta": "Calle 153",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
+  },
+  {
+    "fila": 875,
+    "timestamp": "7/23/2026 10:40:04",
+    "calle": "Calle 64",
+    "desde": "Avenida 149",
+    "hasta": "Avenida 149",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 149' y Hasta 'Avenida 149' son el mismo punto"
   }
 ]
