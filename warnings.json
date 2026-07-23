@@ -7531,5 +7531,14 @@
     "hasta": "Calle 78",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 839,
+    "timestamp": "7/23/2026 9:04:01",
+    "calle": "Calle 140",
+    "desde": "Calle 78",
+    "hasta": "Calle 78",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
   }
 ]
