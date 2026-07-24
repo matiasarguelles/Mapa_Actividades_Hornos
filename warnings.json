@@ -8089,5 +8089,32 @@
     "hasta": "Calle 76",
     "actividad": "Recolección",
     "motivo": "Desde 'Avenida 66' y Hasta 'Calle 76' son el mismo punto"
+  },
+  {
+    "fila": 901,
+    "timestamp": "7/24/2026 8:46:00",
+    "calle": "Calle 159",
+    "desde": "Avenida 66",
+    "hasta": "Avenida 72",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Avenida 72' son el mismo punto"
+  },
+  {
+    "fila": 902,
+    "timestamp": "7/24/2026 8:46:53",
+    "calle": "Calle 78",
+    "desde": "Calle 140",
+    "hasta": "Calle 140",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 903,
+    "timestamp": "7/24/2026 8:47:30",
+    "calle": "Calle 78",
+    "desde": "Calle 140",
+    "hasta": "Calle 140",
+    "actividad": "Basurales",
+    "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
   }
 ]
