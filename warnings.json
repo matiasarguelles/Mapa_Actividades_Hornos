@@ -8080,5 +8080,14 @@
     "hasta": "Calle 68",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 56' y Hasta 'Calle 68' son el mismo punto"
+  },
+  {
+    "fila": 900,
+    "timestamp": "7/24/2026 8:43:13",
+    "calle": "Avenida 149",
+    "desde": "Avenida 66",
+    "hasta": "Calle 76",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 66' y Hasta 'Calle 76' son el mismo punto"
   }
 ]
