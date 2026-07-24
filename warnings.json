@@ -8719,5 +8719,14 @@
     "hasta": "Calle 153",
     "actividad": "Limpieza",
     "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
+  },
+  {
+    "fila": 971,
+    "timestamp": "7/24/2026 12:08:18",
+    "calle": "Calle 157",
+    "desde": "Calle 57",
+    "hasta": "Calle 57",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 57' y Hasta 'Calle 57' son el mismo punto"
   }
 ]
