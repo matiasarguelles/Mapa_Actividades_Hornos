@@ -8548,5 +8548,14 @@
     "hasta": "Calle 64",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 64' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 952,
+    "timestamp": "7/24/2026 11:27:25",
+    "calle": "Calle 164",
+    "desde": "Calle 64",
+    "hasta": "Calle 65",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 64' y Hasta 'Calle 65' son el mismo punto"
   }
 ]
