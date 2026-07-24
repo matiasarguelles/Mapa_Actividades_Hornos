@@ -8476,5 +8476,14 @@
     "hasta": "Calle 64",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 62' y Hasta 'Calle 64' son el mismo punto"
+  },
+  {
+    "fila": 944,
+    "timestamp": "7/24/2026 10:50:23",
+    "calle": "Calle 70",
+    "desde": "Calle 142",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 142' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
