@@ -8710,5 +8710,14 @@
     "hasta": "Calle 78",
     "actividad": "Recolección",
     "motivo": "Desde 'Calle 78' y Hasta 'Calle 78' son el mismo punto"
+  },
+  {
+    "fila": 970,
+    "timestamp": "7/24/2026 11:47:33",
+    "calle": "Avenida 66",
+    "desde": "Calle 151",
+    "hasta": "Calle 153",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 151' y Hasta 'Calle 153' son el mismo punto"
   }
 ]
