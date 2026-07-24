@@ -8359,5 +8359,14 @@
     "hasta": "Calle 59",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 931,
+    "timestamp": "7/24/2026 10:25:07",
+    "calle": "Calle 145",
+    "desde": "Calle 58",
+    "hasta": "Calle 59",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
   }
 ]
