@@ -8683,14 +8683,5 @@
     "hasta": "Avenida 149",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
-  },
-  {
-    "fila": 967,
-    "timestamp": "7/24/2026 11:41:29",
-    "calle": "Calle 185",
-    "desde": "Calle 90",
-    "hasta": "Calle 90",
-    "actividad": "Alumbrado",
-    "motivo": "Desde 'Calle 90' y Hasta 'Calle 90' son el mismo punto"
   }
 ]
