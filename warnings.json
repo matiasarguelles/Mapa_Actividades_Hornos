@@ -8575,5 +8575,23 @@
     "hasta": "Calle 58",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 58' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
+    "fila": 955,
+    "timestamp": "7/24/2026 11:30:03",
+    "calle": "Calle 57",
+    "desde": "Calle 150",
+    "hasta": "Calle 151",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 150' y Hasta 'Calle 151' son el mismo punto"
+  },
+  {
+    "fila": 956,
+    "timestamp": "7/24/2026 11:30:56",
+    "calle": "Calle 78",
+    "desde": "Avenida 137",
+    "hasta": "Calle 138",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Avenida 137' y Hasta 'Calle 138' son el mismo punto"
   }
 ]
