@@ -8143,5 +8143,32 @@
     "hasta": "Avenida 143",
     "actividad": "Barrido",
     "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 907,
+    "timestamp": "7/24/2026 9:06:12",
+    "calle": "Avenida 137",
+    "desde": "Calle 56",
+    "hasta": "Calle 70",
+    "actividad": "Limpieza",
+    "motivo": "Desde 'Calle 56' y Hasta 'Calle 70' son el mismo punto"
+  },
+  {
+    "fila": 908,
+    "timestamp": "7/24/2026 9:07:53",
+    "calle": "Calle 64",
+    "desde": "Calle 131",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
+  },
+  {
+    "fila": 909,
+    "timestamp": "7/24/2026 9:09:30",
+    "calle": "Calle 65",
+    "desde": "Calle 131",
+    "hasta": "Avenida 143",
+    "actividad": "Barrido",
+    "motivo": "Desde 'Calle 131' y Hasta 'Avenida 143' son el mismo punto"
   }
 ]
