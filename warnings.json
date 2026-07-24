@@ -8629,5 +8629,59 @@
     "hasta": "Calle 151",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 150' y Hasta 'Calle 151' son el mismo punto"
+  },
+  {
+    "fila": 961,
+    "timestamp": "7/24/2026 11:34:47",
+    "calle": "Calle 154",
+    "desde": "Calle 57",
+    "hasta": "Calle 58",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 57' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
+    "fila": 962,
+    "timestamp": "7/24/2026 11:35:33",
+    "calle": "Avenida 66",
+    "desde": "Calle 160",
+    "hasta": "Calle 161",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 160' y Hasta 'Calle 161' son el mismo punto"
+  },
+  {
+    "fila": 963,
+    "timestamp": "7/24/2026 11:36:40",
+    "calle": "Calle 154",
+    "desde": "Calle 58",
+    "hasta": "Calle 59",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 58' y Hasta 'Calle 59' son el mismo punto"
+  },
+  {
+    "fila": 964,
+    "timestamp": "7/24/2026 11:37:41",
+    "calle": "Calle 68",
+    "desde": "Calle 136",
+    "hasta": "Avenida 137",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 136' y Hasta 'Avenida 137' son el mismo punto"
+  },
+  {
+    "fila": 965,
+    "timestamp": "7/24/2026 11:38:26",
+    "calle": "Calle 57",
+    "desde": "Calle 150",
+    "hasta": "Calle 151",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 150' y Hasta 'Calle 151' son el mismo punto"
+  },
+  {
+    "fila": 966,
+    "timestamp": "7/24/2026 11:39:39",
+    "calle": "Calle 58",
+    "desde": "Calle 148",
+    "hasta": "Avenida 149",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 148' y Hasta 'Avenida 149' son el mismo punto"
   }
 ]
