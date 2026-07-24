@@ -8116,5 +8116,14 @@
     "hasta": "Calle 140",
     "actividad": "Basurales",
     "motivo": "Desde 'Calle 140' y Hasta 'Calle 140' son el mismo punto"
+  },
+  {
+    "fila": 904,
+    "timestamp": "7/24/2026 8:48:50",
+    "calle": "Calle 161",
+    "desde": "Avenida 52",
+    "hasta": "Avenida 66",
+    "actividad": "Recolección",
+    "motivo": "Desde 'Avenida 52' y Hasta 'Avenida 66' son el mismo punto"
   }
 ]
