@@ -8566,5 +8566,14 @@
     "hasta": "Calle 58",
     "actividad": "Alumbrado",
     "motivo": "Desde 'Calle 58' y Hasta 'Calle 58' son el mismo punto"
+  },
+  {
+    "fila": 954,
+    "timestamp": "7/24/2026 11:28:53",
+    "calle": "Calle 146",
+    "desde": "Calle 58",
+    "hasta": "Calle 58",
+    "actividad": "Alumbrado",
+    "motivo": "Desde 'Calle 58' y Hasta 'Calle 58' son el mismo punto"
   }
 ]
